@@ -1,0 +1,4 @@
+[jenkins_server]
+3.92.75.171 ansible_user=ubuntu
+[jenkins_server:vars]
+certs=[{'email':'revathisanthosh.lalam@gmail.com','domain':'jenkins.devopsprofessional.co.in'}]
